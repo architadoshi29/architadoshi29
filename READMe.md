@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @architadoshi29
 # 👀 I’m interested in learning new things . i like to work on computer. i want to do Computer Engineering in my college.
-#🌱 I’m currently learning full stack development
+#🌱 I am learning full stack development student
 # 💞️ I’m looking to collaborate  with many large companies in my future.
 
 <!---
